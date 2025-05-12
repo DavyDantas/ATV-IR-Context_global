@@ -1,0 +1,32 @@
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.light main div {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.light main {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+
+body.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+body.dark main div {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+body.dark main {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+
